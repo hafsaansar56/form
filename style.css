@@ -1,0 +1,46 @@
+body{
+    background-image: url(https://png.pngtree.com/background/20210710/original/pngtree-blue-earth-outer-space-background-picture-image_1011332.jpg);
+}
+.one{
+    margin: 2px auto;
+    height: 100px;
+    width: 200px;
+    padding: 10px 10px;
+    border: 2px solid black;
+    border-radius: 5px 5px;
+}
+h1{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: large:
+}
+input{
+    -align: left;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: text5px 5px;
+}
+p{
+    color: black;
+    text-align: center;
+    
+}
+.abc{
+    background-color: darkblue;
+    text-align: center;
+}
+.two{
+    height: 250px;
+    width: 200px;
+    margin: 2px auto;
+    padding: 40px 40px 40px 40px;
+    border: 2px solid black;
+    border-radius: 10px 10px;
+    box-shadow: 2px 5px 2px whitesmoke;
+}
+.two input{
+
+    -align: left;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 5px 5px;
+}
